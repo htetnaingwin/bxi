@@ -1,4 +1,4 @@
-# Auther : Binyamin
+# Auther : Binhtetnaing
 # GitHub : https://github.com/Binyamin-binni
 # YouTube Channel : Trick Proof
 import base64
